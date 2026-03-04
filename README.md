@@ -2,6 +2,7 @@
 Aqui estão os comandos que mais utilizei na aula de Terminal:
 - `cd`: Para navegar entre pastas.
 - `cd ..`: Entra em uma pasta específica.
+- `cd ../..` Volta 2 pastas
 - `dir`: Para listar arquivos.
 - `dir /ad`: listar somente pasta.
 - `mkdir nome_pasta`: cria arquivo / pasta. {type nul > sucesso.txt / echo pronto > sucesso.txt = criar arquivo}
@@ -12,6 +13,7 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 
 
 ## 📸 Evidência de Execução
+<img width="593" height="336" alt="image" src="https://github.com/user-attachments/assets/5dd2f50e-e103-4c35-953c-8b0a05e8053b" />
 
 
 
